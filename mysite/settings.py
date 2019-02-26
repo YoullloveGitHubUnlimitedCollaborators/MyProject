@@ -25,7 +25,7 @@ SECRET_KEY = '*9)g#=6e4zgcfjy^=@70tgc*q*=*#%my@@ufbnnhn8c*qu$v@4'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'djangotest.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'youlllovegithubunlimitedcollab.pythonanywhere.com']
 
 
 # Application definition
